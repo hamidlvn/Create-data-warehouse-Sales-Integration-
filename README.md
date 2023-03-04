@@ -1,5 +1,5 @@
 # Create-data-warehouse-Sales-Integration-
-In this project we created data warehouse and integrated all data sources with diffrent type of sources.This project has 3 goals consist of:
+In this project, we created a data warehouse and integrated all data sources with a different types of sources. We had a lot of challenges like integration of data and Date problem (Shamsi Date is not supported with Power BI) This project has 3 goals consist of:
 
 - Get data from two sources (xlsvx,Acess)
 - Data cleaning
@@ -10,6 +10,14 @@ In this project we created data warehouse and integrated all data sources with d
 - Data Modeling
 - Create Date Dimension
 
-Main step of this project:
-1- get data from 1389 xlsvx (Transform data to power query)
-2- Clean data and unpivot it
+Main step of Transformation:
+- get data from 1389 xlsvx (Transform data to power query)
+- Clean data and unpivot it
+- Add year column to table
+- Change type
+- Add 1390 xlsvx with based on 1389 xlsvx transformation step
+- Append table 1389 and 1390 and disable enable load for 1389 and 1390 for performance reasons
+- Create a template for the 1391-4 folder (It enables us to add many files to the folder and power BI load automatically to our data)
+- Combine files in power query and select sample file for combining and doing some transformation like unpivot, create year column and..
+- Append all previous tables with each other
+- do same steps for 1395 folder
