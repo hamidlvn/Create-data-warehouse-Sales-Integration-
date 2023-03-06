@@ -27,4 +27,5 @@ Main step of Transformation:
 - Transfer Integrated data to Power BI environment
 - Now we have a Integrated data!
 
-Notice: At first we had 20 MB data (Not Integrated) and after that our data was integrated and we had just 88 KB power bi file. It is Awsome
+Notice: At first we had 20 MB data (Not Integrated) and after that our data was integrated and we had just 88 KB power bi file. It is Awsome. Because of  we calculated sales col, Cost col and Profit col in power query environment.
+
