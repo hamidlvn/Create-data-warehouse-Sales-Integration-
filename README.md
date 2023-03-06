@@ -1,5 +1,5 @@
 # Create-data-warehouse-Sales-Integration-
-In this project, we created a data warehouse and integrated all data sources with a different types of sources. We had a lot of challenges like integration of data and Date problem (Shamsi Date is not supported with Power BI) This project has 3 goals consist of:
+In this project, we created a data warehouse and integrated all data sources with a different types of sources. We had a lot of challenges like integration of data and Date problem (Shamsi Date is not supported with Power BI) This project has 3 goals consist of (Data Transformation):
 
 - Get data from two sources (xlsvx,Acess)
 - Data cleaning
