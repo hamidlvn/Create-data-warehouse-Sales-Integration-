@@ -5,7 +5,7 @@ In this project, we created a data warehouse and integrated all data sources wit
 - Data cleaning
 - Modify the data structure
 - Data integration
-- How we can get data from a folder with unpredictable number of files
+- How we can get data from a folder with unpredictable number of files (It is auto-update whenever a file will be added to the folder)
 - create data warehouse
 - Data Modeling
 - Create Date Dimension
