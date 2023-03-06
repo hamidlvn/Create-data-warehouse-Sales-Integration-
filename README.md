@@ -21,3 +21,10 @@ Main step of Transformation:
 - Combine files in power query and select sample file for combining and doing some transformation like unpivot, create year column and..
 - Append all previous tables with each other
 - do same steps for 1395 folder
+- Add Customer, Product and Geo tables to Power BI
+- Do some transodrmation like cleaning these tables, merge these tables to sale table.
+- for finding region of each customer we should join Geo table to Customer table and after that sale table to customer table
+- Transfer Integrated data to Power BI environment
+- Now we have a Integrated data!
+
+Notice: At first we had 20 MB data (Not Integrated) and after that our data was integrated and we had just 88 KB power bi file. It is Awsome
